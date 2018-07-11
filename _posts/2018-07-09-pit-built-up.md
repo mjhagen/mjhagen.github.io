@@ -1,0 +1,10 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2018-07-09 21:53:01 +0200
+guid: http://mjhagen.micro.blog/2018/07/09/pit-built-up.html
+---
+PIT built up again
+
+<img src="http://mjhagen.micro.blog/uploads/2018/eefe869fdf.jpg" width="600" height="600" />
