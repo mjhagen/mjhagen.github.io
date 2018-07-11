@@ -1,0 +1,209 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Mingo Hagen",
+	"home_page_url": "https://mjhagen.micro.blog/",
+	"feed_url": "https://mjhagen.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/07/09/pit-built-up.html",
+	      	
+			"content_html": "<p>PIT built up again</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/eefe869fdf.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-09T21:53:01+02:00",
+			"url": "https://mjhagen.micro.blog/2018/07/09/pit-built-up.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/07/09/breaking-the-pit.html",
+	      	
+			"content_html": "<p>Breaking the PIT</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/f25d560960.jpg\" width=\"600\" height=\"600\" /><img src=\"http://mjhagen.micro.blog/uploads/2018/f0cf4894fd.jpg\" width=\"600\" height=\"600\" /><img src=\"http://mjhagen.micro.blog/uploads/2018/74e10fcb80.jpg\" width=\"600\" height=\"600\" /><img src=\"http://mjhagen.micro.blog/uploads/2018/0e9247bd53.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-09T13:39:40+02:00",
+			"url": "https://mjhagen.micro.blog/2018/07/09/breaking-the-pit.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/07/08/pit-op-uncle.html",
+	      	
+			"content_html": "<p>PIT op Uncle Beach</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/de1531b9be.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-08T19:25:16+02:00",
+			"url": "https://mjhagen.micro.blog/2018/07/08/pit-op-uncle.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/07/02/r.html",
+	      	
+			"content_html": "<p>R</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/79aa18ae19.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-02T19:33:14+02:00",
+			"url": "https://mjhagen.micro.blog/2018/07/02/r.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/07/01/mila.html",
+	      	
+			"content_html": "<p>Mila</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/b823ac072c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-01T17:57:59+02:00",
+			"url": "https://mjhagen.micro.blog/2018/07/01/mila.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/06/12/amstel.html",
+	      	
+			"content_html": "<p>Amstel</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/c1ec991d4e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-12T10:36:28+02:00",
+			"url": "https://mjhagen.micro.blog/2018/06/12/amstel.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/06/10/heading-home.html",
+	      	
+			"content_html": "<p>Heading home</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/81b21ff446.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-10T21:11:29+02:00",
+			"url": "https://mjhagen.micro.blog/2018/06/10/heading-home.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/06/09/diepenheim.html",
+	      	
+			"content_html": "<p>Diepenheim</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/1e589f2f69.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-09T12:01:52+02:00",
+			"url": "https://mjhagen.micro.blog/2018/06/09/diepenheim.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/06/03/pit.html",
+	      	
+			"content_html": "<p>PIT</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/84aebfc8fe.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-03T14:14:32+02:00",
+			"url": "https://mjhagen.micro.blog/2018/06/03/pit.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/05/24/todays-view.html",
+	      	
+			"content_html": "<p>Today’s view</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/af55456c71.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-24T14:58:07+02:00",
+			"url": "https://mjhagen.micro.blog/2018/05/24/todays-view.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/05/23/frisian-beer.html",
+	      	
+			"content_html": "<p>Frisian beer</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/e6031a89c4.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-23T18:26:18+02:00",
+			"url": "https://mjhagen.micro.blog/2018/05/23/frisian-beer.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/05/23/on-holiday-in.html",
+	      	
+			"content_html": "<p>On holiday in our own country.</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/45dd4b18cf.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-23T17:02:38+02:00",
+			"url": "https://mjhagen.micro.blog/2018/05/23/on-holiday-in.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/05/17/commute.html",
+	      	
+			"content_html": "<p>Commute</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/b60b26d036.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-17T18:28:49+02:00",
+			"url": "https://mjhagen.micro.blog/2018/05/17/commute.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/05/16/233015.html",
+	      	
+			"content_html": "<p><img src=\"http://mjhagen.micro.blog/uploads/2018/7a251cf4d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-17T01:30:15+02:00",
+			"url": "https://mjhagen.micro.blog/2018/05/17/233015.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/05/16/twitter-finally-made.html",
+	      	
+			"content_html": "<p>Twitter finally made me make an account here.</p>\n",
+			"date_published": "2018-05-17T01:21:14+02:00",
+			"url": "https://mjhagen.micro.blog/2018/05/17/twitter-finally-made.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/05/04/elmo.html",
+	      	
+			"content_html": "<p>Elmo</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/1d09214105.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-04T18:31:43+02:00",
+			"url": "https://mjhagen.micro.blog/2018/05/04/elmo.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/04/14/achter-de-knoppen.html",
+	      	
+			"content_html": "<p>Achter de knoppen</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/b105149966.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-14T18:35:39+02:00",
+			"url": "https://mjhagen.micro.blog/2018/04/14/achter-de-knoppen.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/04/13/170127.html",
+	      	
+			"content_html": "<p><img src=\"http://mjhagen.micro.blog/uploads/2018/746cc20bf8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-13T19:01:27+02:00",
+			"url": "https://mjhagen.micro.blog/2018/04/13/170127.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/04/06/135318.html",
+	      	
+			"content_html": "<p>🐱 🐠</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/161656ac91.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-06T15:53:18+02:00",
+			"url": "https://mjhagen.micro.blog/2018/04/06/135318.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/03/19/152926.html",
+	      	
+			"content_html": "<p><img src=\"http://mjhagen.micro.blog/uploads/2018/eccad2600d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-19T16:29:26+01:00",
+			"url": "https://mjhagen.micro.blog/2018/03/19/152926.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/03/18/it-sort-of.html",
+	      	
+			"content_html": "<p>It sort of works now, but there’s a nasty sound issue that I thought I’d fixed that returned as soon as I closed up the case.</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/0351f32ba4.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-18T22:58:00+01:00",
+			"url": "https://mjhagen.micro.blog/2018/03/18/it-sort-of.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/03/08/091141.html",
+	      	
+			"content_html": "<p><img src=\"http://mjhagen.micro.blog/uploads/2018/91d0a208cb.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-08T10:11:41+01:00",
+			"url": "https://mjhagen.micro.blog/2018/03/08/091141.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/02/28/for-jaredce.html",
+	      	
+			"content_html": "<p>For @jaredce</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/3e6f74ad3f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-28T09:22:29+01:00",
+			"url": "https://mjhagen.micro.blog/2018/02/28/for-jaredce.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/02/27/roei.html",
+	      	
+			"content_html": "<p>Roei</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/4c477934c3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-27T18:45:54+01:00",
+			"url": "https://mjhagen.micro.blog/2018/02/27/roei.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/02/16/new-to-me.html",
+	      	
+			"content_html": "<p>New (to me) standing desk. Let’s see how this goes :)\n(thanks to Herman for the generous gift!)</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/7052ad20f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-16T19:15:08+01:00",
+			"url": "https://mjhagen.micro.blog/2018/02/16/new-to-me.html"
+		}
+		
+	]
+}
