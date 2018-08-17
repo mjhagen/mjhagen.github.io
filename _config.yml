@@ -34,7 +34,9 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "4438"
 gems: ["jekyll-paginate"]
+itunes_description: "Web dev from Amsterdam"
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Mingo Hagen"
+itunes_email: ""
 podcast: false
