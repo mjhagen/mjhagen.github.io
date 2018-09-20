@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Mingo Hagen",
+	"icon": "https://micro.blog/mjhagen/avatar.jpg",
 	"home_page_url": "https://mjhagen.micro.blog/",
 	"feed_url": "https://mjhagen.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/09/19/194104.html",
+	      	
+			"content_html": "<p><img src=\"http://mjhagen.micro.blog/uploads/2018/426d12f428.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-19T21:41:04+02:00",
+			"url": "https://mjhagen.micro.blog/2018/09/19/194104.html"
+		},
+		
+		{
+			"id": "http://mjhagen.micro.blog/2018/09/19/vacation-time-menko.html",
+	      	
+			"content_html": "<p>Vacation time! Menko out.</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/fb6454551c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-19T12:08:12+02:00",
+			"url": "https://mjhagen.micro.blog/2018/09/19/vacation-time-menko.html"
+		},
 		
 		{
 			"id": "http://mjhagen.micro.blog/2018/09/09/han.html",
@@ -187,22 +204,6 @@
 			"content_html": "<p>Today’s view</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/af55456c71.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-24T14:58:07+02:00",
 			"url": "https://mjhagen.micro.blog/2018/05/24/todays-view.html"
-		},
-		
-		{
-			"id": "http://mjhagen.micro.blog/2018/05/23/frisian-beer.html",
-	      	
-			"content_html": "<p>Frisian beer</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/e6031a89c4.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-23T18:26:18+02:00",
-			"url": "https://mjhagen.micro.blog/2018/05/23/frisian-beer.html"
-		},
-		
-		{
-			"id": "http://mjhagen.micro.blog/2018/05/23/on-holiday-in.html",
-	      	
-			"content_html": "<p>On holiday in our own country.</p>\n\n<p><img src=\"http://mjhagen.micro.blog/uploads/2018/45dd4b18cf.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-23T17:02:38+02:00",
-			"url": "https://mjhagen.micro.blog/2018/05/23/on-holiday-in.html"
 		}
 		
 	]
