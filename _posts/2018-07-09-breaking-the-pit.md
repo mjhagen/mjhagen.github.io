@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-09 13:39:40 +0200
+date: 2018-07-09 12:39:40 +0100
 guid: http://mjhagen.micro.blog/2018/07/09/breaking-the-pit.html
 ---
 Breaking the PIT
