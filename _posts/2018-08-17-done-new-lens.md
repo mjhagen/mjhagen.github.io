@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-17 20:15:16 +0200
+date: 2018-08-17 19:15:16 +0100
 guid: http://mjhagen.micro.blog/2018/08/17/done-new-lens.html
 ---
 Done! New lens, new capacitors, new rubber domes, new battery contacts, cleaned and retr0brighted.
