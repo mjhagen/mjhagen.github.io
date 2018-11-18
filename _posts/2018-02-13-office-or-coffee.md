@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-13 14:08:37 +0200
+date: 2018-02-13 13:08:37 +0100
 guid: http://mjhagen.micro.blog/2018/02/13/office-or-coffee.html
 ---
 Office, or coffee shop?
