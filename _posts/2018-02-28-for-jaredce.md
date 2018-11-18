@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-28 10:22:29 +0200
+date: 2018-02-28 09:22:29 +0100
 guid: http://mjhagen.micro.blog/2018/02/28/for-jaredce.html
 ---
 For @jaredce
