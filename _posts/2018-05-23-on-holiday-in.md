@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-23 17:02:38 +0200
+date: 2018-05-23 16:02:38 +0100
 guid: http://mjhagen.micro.blog/2018/05/23/on-holiday-in.html
 ---
 On holiday in our own country.
