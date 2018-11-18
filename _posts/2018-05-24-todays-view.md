@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-24 14:58:07 +0200
+date: 2018-05-24 13:58:07 +0100
 guid: http://mjhagen.micro.blog/2018/05/24/todays-view.html
 ---
 Today’s view
