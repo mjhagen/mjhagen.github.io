@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-17 10:04:50 +0200
+date: 2018-08-17 09:04:50 +0100
 guid: http://mjhagen.micro.blog/2018/08/17/my-current-home.html
 ---
 My current home screen, with Tweetbot replaced by Icro.
