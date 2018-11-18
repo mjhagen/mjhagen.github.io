@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-23 18:26:18 +0200
+date: 2018-05-23 17:26:18 +0100
 guid: http://mjhagen.micro.blog/2018/05/23/frisian-beer.html
 ---
 Frisian beer
