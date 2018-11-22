@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-20 11:48:58 +0100
 guid: http://mjhagen.micro.blog/2018/08/20/next-step-keeping.html
 ---
