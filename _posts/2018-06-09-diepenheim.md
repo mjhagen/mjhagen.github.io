@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjhagen.micro.blog/uploads/2018/1e589f2f69.jpg
 date: 2018-06-09 11:01:52 +0100
 guid: http://mjhagen.micro.blog/2018/06/09/diepenheim.html
 ---
