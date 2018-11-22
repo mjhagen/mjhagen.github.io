@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjhagen.micro.blog/uploads/2018/11a8d80d2b.jpg
 date: 2018-08-17 15:03:10 +0100
 guid: http://mjhagen.micro.blog/2018/08/17/the-single-aapl.html
 ---
