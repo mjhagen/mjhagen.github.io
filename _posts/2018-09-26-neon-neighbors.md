@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjhagen.micro.blog/uploads/2018/5a68933e79.jpg
 date: 2018-09-26 11:59:27 +0100
 guid: http://mjhagen.micro.blog/2018/09/26/neon-neighbors.html
 ---
