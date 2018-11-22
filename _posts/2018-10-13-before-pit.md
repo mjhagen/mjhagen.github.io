@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjhagen.micro.blog/uploads/2018/eb24d519a8.jpg
 date: 2018-10-13 16:35:43 +0100
 guid: http://mjhagen.micro.blog/2018/10/13/before-pit.html
 ---
