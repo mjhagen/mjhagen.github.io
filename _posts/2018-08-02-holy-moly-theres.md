@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-02 16:40:37 +0100
 guid: http://mjhagen.micro.blog/2018/08/02/holy-moly-theres.html
 ---
