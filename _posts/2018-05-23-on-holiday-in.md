@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjhagen.micro.blog/uploads/2018/45dd4b18cf.jpg
 date: 2018-05-23 16:02:38 +0100
 guid: http://mjhagen.micro.blog/2018/05/23/on-holiday-in.html
 ---
