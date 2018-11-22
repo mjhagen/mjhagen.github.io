@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjhagen.micro.blog/uploads/2018/cb8acb07fc.jpg
 date: 2018-07-24 15:08:48 +0100
 guid: http://mjhagen.micro.blog/2018/07/24/project-clean-up.html
 ---
